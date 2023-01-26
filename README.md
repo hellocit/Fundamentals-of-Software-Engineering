@@ -19,7 +19,11 @@
 ## chap12 テスト計画とテストデータの作成
 ## chap13 テスト技術
 ## chap14 テストの実施
+テスト
 ## chap15 ソフトウェアの進化
+ソフトウェアの保守
+サブルーチン
+ICCA
 ## chap16 ソフトウェア工学の貢献と課題
 1. スケジュール
 2. リソース
@@ -31,3 +35,5 @@
 * コーディング規約
 ## 自分用
 https://docs.google.com/document/d/1b53TozrU2WYbrG1xgT50B_ULVHhcnVqBn1294RBqsbA/edit#heading=h.dnffz6y03q9f
+アジャイル開発
+ウォーターフォール開発
